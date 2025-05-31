@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2017 Brandon T. Ruggles
+Copyright (c) 2023 Maksym
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
